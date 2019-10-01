@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["document","addEventListener","start"],"mappings":"AAAA;;AAEAA,QAAQ,CAACC,gBAAT,CAA0B,kBAA1B,EAA8CC,KAA9C;;AAEA,SAASA,KAAT,GAAiB,CAAE","file":"script.75da7f30.js","sourceRoot":"..","sourcesContent":["\"use strict\";\n\ndocument.addEventListener(\"DOMContentLoaded\", start);\n\nfunction start() {}\n"]}
